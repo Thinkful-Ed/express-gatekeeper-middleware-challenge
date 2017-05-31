@@ -60,8 +60,8 @@ function gateKeeper(req, res, next) {
   // ^^ the more verbose way to express this is:
   //
   // const parsedHeader = queryString.parse(req.get('x-username-and-password'));
-  // const user = queryString.user || null;
-  // const pass = queryString.pass || null;
+  // const user = parsedHeader.user || null;
+  // const pass = parsedHeader.pass || null;
 
   // if there's a user in `USERS` with the username
   // and password from the request headers,
