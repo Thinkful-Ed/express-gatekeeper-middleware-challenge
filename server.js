@@ -15,7 +15,7 @@ const app = express();
 // do in a real app. Instead, always use cryptographic
 // password hashing best practices (aka, the tried and true
 // ways to keep user passwords as secure as possible).
-// You can learn mroe about password hashing later
+// You can learn more about password hashing later
 // here: https://crackstation.net/hashing-security.htm
 const USERS = [
   {id: 1,
