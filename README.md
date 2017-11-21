@@ -1,4 +1,6 @@
-# Challenge: Gatekeeper middleware
+# Express challenge: gatekeeper middleware
+
+[GitHub](https://github.com/Thinkful-Ed/express-gatekeeper-middleware-challenge) | [Glitch](https://glitch.com/edit/#!/express-gatekeeper-middleware-challenge)
 
 This is a challenge in Thinkful's *Web Development Bootcamp*.
 
